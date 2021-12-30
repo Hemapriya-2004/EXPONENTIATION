@@ -24,7 +24,7 @@ print("Exponentiation of a given number:",a**b)
 ```
 
 ## Output:
-![exponentiation of a number](ss2.png)
+![exponentiation of a number](https://github.com/Hemapriya-2004/EXPONENTIATION/blob/e3045845090fcf293edea8952c9975e8db76014e/ss2.PNG)
 
 
 ## Result:
